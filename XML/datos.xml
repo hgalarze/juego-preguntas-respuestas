@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Datos>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Todo objeto es una .............. de una clase.</Texto>
+		<Respuestas>
+			<primera>Instancia.</primera>
+			<segunda>Clase.</segunda>
+			<tercera>Abstracción.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>Llamamos .............. al envio de mensajes entre objetos.</Texto>
+		<Respuestas>
+			<primera>Polimorfismo.</primera>
+			<segunda>Colaboracion.</segunda>
+			<tercera>Concurrencia.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>El .............. de un objeto captura el conocimiento de ese objeto y esta encapsulado.</Texto>
+		<Respuestas>
+			<primera>Comportamiento.</primera>
+			<segunda>Protocolo.</segunda>
+			<tercera>Estado.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>OBJETO = .............. + .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Identidad, estado interno, comportamiento.</primera>
+			<segunda>Mensaje, método, encapsulamiento.</segunda>
+			<tercera>Fiabilidad, modularidad, identidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Tipo de dato abstracto equipado con una implementación posiblemente parcial.</Texto>
+		<Respuestas>
+			<primera>Objeto.</primera>
+			<segunda>Clase.</segunda>
+			<tercera>Mensaje.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es un conjunto coherente de metodos que se emplean para programar y han sido encontrados para el manejo especifico de un tipo de problemas, de un dominio determinado.</Texto>
+		<Respuestas>
+			<primera>Módulo.</primera>
+			<segunda>Protocolo.</segunda>
+			<tercera>Paradigma de programación.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Abstracción de la modificación destructiva del contenido de una celda de memoria.</Texto>
+		<Respuestas>
+			<primera>Sentencia de asignación.</primera>
+			<segunda>Variable.</segunda>
+			<tercera>Método.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Dos elementos esenciales de la sintaxis basica de un programa escrito en el paradigma orientado a objetos</Texto>
+		<Respuestas>
+			<primera>Mensaje y método.</primera>
+			<segunda>Objeto y mensaje.</segunda>
+			<tercera>Objeto y método.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es un conjunto de contratos que se establecen entre dos objetos, el que envía el mensaje y el que lo va a responder.</Texto>
+		<Respuestas>
+			<primera>Atributo.</primera>
+			<segunda>Objeto.</segunda>
+			<tercera>Protocolo.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>Fiabilidad = .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Corrección, modularidad.</primera>
+			<segunda>Robustez, modularidad.</segunda>
+			<tercera>Corrección, robustez.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Modularidad = .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Reutilización, extensibilidad.</primera>
+			<segunda>Reutilización, fiabilidad</segunda>
+			<tercera>Extensibilidad, fiabilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. = Definen las suposiciones sobre el estado del sistema al iniciarse la operación. Especifica las condiciones bajo las cuales es valido llamar a una operación.</Texto>
+		<Respuestas>
+			<primera>Postcondición.</primera>
+			<segunda>Precondición.</segunda>
+			<tercera>Variable.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. = Estipulan como cambios el sistema tras una operación. Son declaraciones sobre el estado del sistema. Una vez concluida la operación deben expresarse en tiempo pasado.</Texto>
+		<Respuestas>
+			<primera>Precondición.</primera>
+			<segunda>Variable.</segunda>
+			<tercera>Postcondición.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. = Predicado que expresa una cierta propiedad que siempre es verdadera para los valores del dominio.</Texto>
+		<Respuestas>
+			<primera>Axioma.</primera>
+			<segunda>Invariante.</segunda>
+			<tercera>Programa.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Marca restricciones de las instancias de las clases que se deben cumplir permanentemente.</Texto>
+		<Respuestas>
+			<primera>Axioma.</primera>
+			<segunda>Invariante.</segunda>
+			<tercera>Programa.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es una abstracción de una entidad que tiene un comportamiento. Es dinámico.</Texto>
+		<Respuestas>
+			<primera>Método.</primera>
+			<segunda>Mensaje.</segunda>
+			<tercera>Objeto.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Una .............. describe un conjunto de objetos que comparten una estructura común y un comportamiento común.</Texto>
+		<Respuestas>
+			<primera>Clase.</primera>
+			<segunda>Objeto.</segunda>
+			<tercera>Abstracción.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>El .............. es una instancia de una clase.</Texto>
+		<Respuestas>
+			<primera>Mensaje.</primera>
+			<segunda>Objeto.</segunda>
+			<tercera>Polimorfismo.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Mecanismo de implementación mediante el cual nuevas clases se definen a partir de otras clases existentes.</Texto>
+		<Respuestas>
+			<primera>Generalización.</primera>
+			<segunda>Especialización.</segunda>
+			<tercera>Herencia..</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Relación de herencia - Es un - entre .............. </Texto>
+		<Respuestas>
+			<primera>Clases.</primera>
+			<segunda>Objetos.</segunda>
+			<tercera>Métodos.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>Relación de agregación - Tiene un - entre .............. </Texto>
+		<Respuestas>
+			<primera>Clases.</primera>
+			<segunda>Objetos.</segunda>
+			<tercera>Mensajes.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es una propiedad de un sistema que permite su descomposición en un conjunto de módulos altamente cohesivos y débilmente acoplados.</Texto>
+		<Respuestas>
+			<primera>Polimorfismo.</primera>
+			<segunda>Binding dinámico.</segunda>
+			<tercera>Modularidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Medida de la fuerza de la asociación establecida por una conexión entre modulo y otro.</Texto>
+		<Respuestas>
+			<primera>Acoplamiento.</primera>
+			<segunda>Cohesión.</segunda>
+			<tercera>Modularidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Mide el grado de conectividad entre los elementos de un solo módulo en el POO.</Texto>
+		<Respuestas>
+			<primera>Acoplamiento.</primera>
+			<segunda>Cohesión.</segunda>
+			<tercera>Modularidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Muchos objetos de distintas clases son capaces de responder al mismo mensaje pero cada cual a su manera.</Texto>
+		<Respuestas>
+			<primera>Concurrencia.</primera>
+			<segunda>Integridad.</segunda>
+			<tercera>Polimorfismo.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : El objeto elije el método a ejecutar en tiempo de ejecución.</Texto>
+		<Respuestas>
+			<primera>Binding dinámico.</primera>
+			<segunda>Concurrencia.</segunda>
+			<tercera>Persistencia.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Es la propiedad que distingue un objeto activo de uno que no esta activo.</Texto>
+		<Respuestas>
+			<primera>Persistencia</primera>
+			<segunda>Concurrencia.</segunda>
+			<tercera>Binding dinámico.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es la propiedad de un objeto por la que su existencia trasciende en el tiempo y/o espacio.</Texto>
+		<Respuestas>
+			<primera>Concurrencia.</primera>
+			<segunda>Binding Dinámico.</segunda>
+			<tercera>Persistencia.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Propiedad que lo distingue de todos los demás objetos.</Texto>
+		<Respuestas>
+			<primera>Identidad.</primera>
+			<segunda>Estado.</segunda>
+			<tercera>Comportamiento.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Está expresado por el conjunto de mensajes que el objeto es capaz de responder.</Texto>
+		<Respuestas>
+			<primera>Estado.</primera>
+			<segunda>Comportamiento.</segunda>
+			<tercera>Identidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Unidad de comunicación entre objetos y una especificación de un estímulo.</Texto>
+		<Respuestas>
+			<primera>Método.</primera>
+			<segunda>Protocolo.</segunda>
+			<tercera>Mensaje.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Código java que puede ser ejecutado por los navegadores de internet.</Texto>
+		<Respuestas>
+			<primera>Interface.</primera>
+			<segunda>Arrays.</segunda>
+			<tercera>Applets.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Se ejecutan dentro de los servidores java, definiendo y configurando el trabajo de estos.</Texto>
+		<Respuestas>
+			<primera>Servelet.</primera>
+			<segunda>Applets.</segunda>
+			<tercera>Interface.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Conjunto de clases de java.</Texto>
+		<Respuestas>
+			<primera>Arrays.</primera>
+			<segunda>Packages.</segunda>
+			<tercera>Mensajes.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Representa una estructura de datos manipulabledentro de un programa, no es mas que una abstracción del contenido de una celda de memoria.</Texto>
+		<Respuestas>
+			<primera>Asignación.</primera>
+			<segunda>Métodos.</segunda>
+			<tercera>Variable.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Facilidad de adaptar los sistemas de software a los cambios de especificación.</Texto>
+		<Respuestas>
+			<primera>Extensibilidad.</primera>
+			<segunda>Modularidad.</segunda>
+			<tercera>Fiabilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Capacidad de los sistemas de software de reaccionar apropiadamente ante condiciones excepcionales.</Texto>
+		<Respuestas>
+			<primera>Corrección.</primera>
+			<segunda>Robustez.</segunda>
+			<tercera>Portabilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Facilidad de transferir los sistemas de software a distintos entornos de hardware y software.</Texto>
+		<Respuestas>
+			<primera>Modularidad</primera>
+			<segunda>Robustez.</segunda>
+			<tercera>Portabilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Fiabilidad = .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Corrección, Robustez.</primera>
+			<segunda>Corrección, portabilidad.</segunda>
+			<tercera>Corrección, fiabilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>Modularidad = .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Reutilización, portabilidad.</primera>
+			<segunda>Reutilización, Extensibilidad.</segunda>
+			<tercera>Reutilización, robustez.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Conjunto de posibilidades que proporciona un sistema.</Texto>
+		<Respuestas>
+			<primera>Extensibilidad.</primera>
+			<segunda>Integridad.</segunda>
+			<tercera>Funcionalidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>.............. : Capacidad de los sistemas de software de proteger sus diversos componentes contra modificaciones y accesos no autorizados.</Texto>
+		<Respuestas>
+			<primera>Integridad.</primera>
+			<segunda>Portabilidad.</segunda>
+			<tercera>Extensibilidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Capacidad de un sistema de software de completarse con el presupuesto asignado o por debajo del mismo.</Texto>
+		<Respuestas>
+			<primera>Jerarquía.</primera>
+			<segunda>Economía.</segunda>
+			<tercera>Integridad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>Todo objeto es una .............. de una clase.</Texto>
+		<Respuestas>
+			<primera>Instancia.</primera>
+			<segunda>Abstracción.</segunda>
+			<tercera>Identidad.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>Llamamos .............. al envio de mensajes entre objetos.</Texto>
+		<Respuestas>
+			<primera>Comportamiento.</primera>
+			<segunda>Colaboracion.</segunda>
+			<tercera>Corrección.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>El .............. de un objeto captura el conocimiento de ese objeto y esta encapsulado.</Texto>
+		<Respuestas>
+			<primera>Comportamiento.</primera>
+			<segunda>Mensaje.</segunda>
+			<tercera>Estado.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>1</id>
+		<Texto>OBJETO = .............. + .............. + ..............</Texto>
+		<Respuestas>
+			<primera>Identidad, estado interno, comportamiento.</primera>
+			<segunda>Identidad, estado interno, mensaje.</segunda>
+			<tercera>Identidad, estado interno, polimorfismo.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>2</id>
+		<Texto>.............. : Tipo de dato abstracto equipado con una implementación posiblemente parcial.</Texto>
+		<Respuestas>
+			<primera>Objeto.</primera>
+			<segunda>Clase.</segunda>
+			<tercera>Mensaje.</tercera>
+		</Respuestas>
+	</Pregunta>
+	<Pregunta>
+		<id>3</id>
+		<Texto>.............. : Es un conjunto coherente de metodos que se emplean para programar y han sido encontrados para el manejo especifico de un tipo de problemas, de un dominio determinado.</Texto>
+		<Respuestas>
+			<primera>Programa.</primera>
+			<segunda>Recursividad.</segunda>
+			<tercera>Paradigma de programación.</tercera>
+		</Respuestas>
+	</Pregunta>
+</Datos>
